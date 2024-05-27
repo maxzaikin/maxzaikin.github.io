@@ -7,7 +7,8 @@ title: Welcome to my blog
 <h3 align="center"I'm curious and collaborative machine learning engineer who loves diving into complex datasets and building models that unlock valuable insights. I'm always up for a good challenge and enjoy working with a team.r</h3>
 
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4xZTcxcnZ1Y3kyN21lN24zMGFmMzM0Nm1zMmh4cm42bzR1emc5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n8awua33xgS3CVxb1f/giphy.gif" width="600" height="300"  /></p>
-<!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
+<!-- ![](https://komarev.com/ghpvc/?username=maxzaikin&style=flat) -->
+
 - 🔭 I’m currently working on **Machine learning in cybersecurity**
 - 🌱 I’m currently learning **Linear Algebra, Statistics, ICS/OT and cybersecurity**
 - 👯 I’m looking to collaborate on **Any projects where my skills an knowledge will be benefitial**
@@ -33,16 +34,16 @@ title: Welcome to my blog
 <h3 align="left">Github Activities:</h3>
 <div class="row">
   <div class="column">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=chuksoo&show_icons=true&locale=en" height="200" width="400" alt="chuksoo" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=maxzaikin&show_icons=true&locale=en" height="200" width="400" alt="maxzaikin" />
   </div>
   <div class="column">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuksoo&theme=default" height="200" width="400" alt="chuksoo" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxzaikin&theme=default" height="200" width="400" alt="chuksoo" /> 
   </div>
 </div>
 
   <div class="column">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact" height="150" width="300" alt="chuksoo" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxzaikin&layout=compact" height="150" width="300" alt="maxzaikin" />
   </div>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chuksoo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chuksoo" /></a></p>
+<p><a href="https://www.buymeacoffee.com/maxzaikin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maxzaikin" /></a></p>
