@@ -8,7 +8,6 @@ title: Welcome to my blog
 
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4xZTcxcnZ1Y3kyN21lN24zMGFmMzM0Nm1zMmh4cm42bzR1emc5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n8awua33xgS3CVxb1f/giphy.gif" width="600" height="300"  /></p>
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
-
 - 🔭 I’m currently working on **Machine learning in cybersecurity**
 - 🌱 I’m currently learning **Linear Algebra, Statistics, ICS/OT and cybersecurity**
 - 👯 I’m looking to collaborate on **Any projects where my skills an knowledge will be benefitial**
