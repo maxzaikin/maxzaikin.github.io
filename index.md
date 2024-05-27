@@ -2,29 +2,25 @@
 title: Welcome to my blog
 ---
 
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"></h1>
-<h2> My name is Maks V. Zaikin
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> my name is Maks V. Zaikin</h1>
+ 
 <h3 align="center"I'm curious and collaborative machine learning engineer who loves diving into complex datasets and building models that unlock valuable insights. I'm always up for a good challenge and enjoy working with a team.r</h3>
 
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4xZTcxcnZ1Y3kyN21lN24zMGFmMzM0Nm1zMmh4cm42bzR1emc5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n8awua33xgS3CVxb1f/giphy.gif" width="600" height="300"  /></p>
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
 
-- 🔭 I’m currently working on **probabilistic graphical models**
-- 🌱 I’m currently learning more about **Generative AI, Probabilistic Machine Learning**
-- 👯 I’m looking to collaborate on **Machine Learning projects**
-- 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/chuksoo/Data-Science-Portfolio)
-- 📝 I regularly write articles on [medium](https://medium.com/@Iceman_subzero)
-- 💬 Ask me about **python, machine learning**
-- 📫 How to reach me: **chuks.o.okoli@gmail.com**
-- 📄 Know about my experiences on [linkedin.com](https://www.linkedin.com/in/chukwuemeka-okoli-38686923/)
-  <!--- 🤝 I’m looking for help with **MLOps**-->
-
+- 🔭 I’m currently working on **Machine learning in cybersecurity**
+- 🌱 I’m currently learning **Linear Algebra, Statistics, ICS/OT and cybersecurity**
+- 👯 I’m looking to collaborate on **Any projects where my skills an knowledge will be benefitial**
+- 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/maxzaikin/Data-Science-Portfolio)
+- 💬 Ask me about **python, machine learning, statistics, cyber security, C#**
+- 📫 How to reach me: **max.v.zaikin@gmail.com**
+- 📄 Know about my experiences on [linkedin.com](https://www.linkedin.com/in/maksim-zaikin/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mexx4me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mexx4me" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chukwuemeka-okoli-38686923/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chukwuemeka-okoli-38686923/" height="30" width="40" /></a>
-<a href="https://medium.com/@iceman_subzero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iceman_subzero" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pythondance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pythondance" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/maksim-zaikin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chukwuemeka-okoli-38686923/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/maxzaikin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pythondance" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
