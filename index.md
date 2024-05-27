@@ -1,7 +1,3 @@
----
-title: Welcome to my blog
----
-
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> my name is Maks V. Zaikin</h1>
  
 <h3 align="center"I'm curious and collaborative machine learning engineer who loves diving into complex datasets and building models that unlock valuable insights. I'm always up for a good challenge and enjoy working with a team.r</h3>
