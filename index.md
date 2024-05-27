@@ -6,7 +6,7 @@ title: Welcome to my blog
 
 <h3 align="center">A passionate machine learning engineer</h3>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4xZTcxcnZ1Y3kyN21lN24zMGFmMzM0Nm1zMmh4cm42bzR1emc5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n8awua33xgS3CVxb1f/giphy.gif" width="600" height="300"  /></p>
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
 
 - 🔭 I’m currently working on **probabilistic graphical models**
