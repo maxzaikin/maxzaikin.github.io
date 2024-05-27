@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> my name is Maks V. Zaikin</h1>
  
-<h3 align="center"I'm curious and collaborative machine learning engineer who loves diving into complex datasets and building models that unlock valuable insights. I'm always up for a good challenge and enjoy working with a team.r</h3>
+<h3 align="center">I'm curious and collaborative machine learning engineer who loves diving into complex datasets and building models that unlock valuable insights. I'm always up for a good challenge and enjoy working with a team.r</h3>
 
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4xZTcxcnZ1Y3kyN21lN24zMGFmMzM0Nm1zMmh4cm42bzR1emc5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n8awua33xgS3CVxb1f/giphy.gif" width="600" height="300"  /></p>
 <!-- ![](https://komarev.com/ghpvc/?username=maxzaikin&style=flat) -->
